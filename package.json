@@ -1,0 +1,25 @@
+{
+  "name": "wheather_app",
+  "version": "1.0.0",
+  "description": "wheater app using http request and feching API",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmkarSangaonkar/Wheather_app.git"
+  },
+  "author": "Omkar Sangaonkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmkarSangaonkar/Wheather_app/issues"
+  },
+  "homepage": "https://github.com/OmkarSangaonkar/Wheather_app#readme"
+}
